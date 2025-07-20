@@ -1,4 +1,4 @@
-# SoftwareEngineering1-ToffeeStore
+# Software Engineering 1 Project - Toffee Store
 ## Description:
 - Toffee Store is an e-commerce system that sells sweets.
 - Users can regiser using their name,email,password and address. Email needs to be confirmed using OTP to continue the registeration.
